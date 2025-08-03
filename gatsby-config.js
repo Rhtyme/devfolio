@@ -3,7 +3,7 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Sirojiddin Komolov',
     // Main Site Title
     title: `Ryan Fitzgerald | Full-Stack Developer`,
     // Description that goes under your name in main bio
