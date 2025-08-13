@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.]]></description><link>https://monumental-chimera-b1ace3.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Aug 2025 22:04:12 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Ushbu blog 5- blog Bu blog git haqida bo’ladi.]]></description><link>https://monumental-chimera-b1ace3.netlify.app/blog/mt-fifth-blog/</link><guid isPermaLink="false">https://monumental-chimera-b1ace3.netlify.app/blog/mt-fifth-blog/</guid><content:encoded>&lt;h1&gt;Ushbu blog 5- blog&lt;/h1&gt;
-&lt;p&gt;Bu blog git haqida bo’ladi.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Fourth Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://monumental-chimera-b1ace3.netlify.app/blog/my-fourth-blog/</link><guid isPermaLink="false">https://monumental-chimera-b1ace3.netlify.app/blog/my-fourth-blog/</guid><pubDate>Mon, 12 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.]]></description><link>https://rhtyme.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Aug 2025 18:57:39 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Ushbu blog 5- blog Bu blog git haqida bo’ladi.]]></description><link>https://rhtyme.github.io/blog/mt-fifth-blog/</link><guid isPermaLink="false">https://rhtyme.github.io/blog/mt-fifth-blog/</guid><content:encoded>&lt;h1&gt;Ushbu blog 5- blog&lt;/h1&gt;
+&lt;p&gt;Bu blog git haqida bo’ladi.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Fourth Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://rhtyme.github.io/blog/my-fourth-blog/</link><guid isPermaLink="false">https://rhtyme.github.io/blog/my-fourth-blog/</guid><pubDate>Mon, 12 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -7,7 +7,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,11 +20,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;&quot;
-        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -64,7 +64,7 @@
 
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;John Doe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://monumental-chimera-b1ace3.netlify.app/blog/my-third-blog/</link><guid isPermaLink="false">https://monumental-chimera-b1ace3.netlify.app/blog/my-third-blog/</guid><pubDate>Sat, 10 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
+&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://rhtyme.github.io/blog/my-third-blog/</link><guid isPermaLink="false">https://rhtyme.github.io/blog/my-third-blog/</guid><pubDate>Sat, 10 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -72,7 +72,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -85,11 +85,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;&quot;
-        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -129,7 +129,7 @@
 
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;John Doe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://monumental-chimera-b1ace3.netlify.app/blog/my-second-blog/</link><guid isPermaLink="false">https://monumental-chimera-b1ace3.netlify.app/blog/my-second-blog/</guid><pubDate>Fri, 02 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
+&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://rhtyme.github.io/blog/my-second-blog/</link><guid isPermaLink="false">https://rhtyme.github.io/blog/my-second-blog/</guid><pubDate>Fri, 02 Oct 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -137,7 +137,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -150,11 +150,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;&quot;
-        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -194,7 +194,7 @@
 
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;helloWorld&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;John Doe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My First Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://monumental-chimera-b1ace3.netlify.app/blog/my-first-blog/</link><guid isPermaLink="false">https://monumental-chimera-b1ace3.netlify.app/blog/my-first-blog/</guid><pubDate>Sun, 20 Sep 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
+&lt;p&gt;Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My First Blog Post]]></title><description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit…]]></description><link>https://rhtyme.github.io/blog/my-first-blog/</link><guid isPermaLink="false">https://rhtyme.github.io/blog/my-first-blog/</guid><pubDate>Sun, 20 Sep 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -202,7 +202,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
+    href=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -215,11 +215,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mountain&quot;
         title=&quot;&quot;
-        src=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
-        srcset=&quot;/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
-/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
+        src=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg&quot;
+        srcset=&quot;/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/a80bd/mountain.jpg 148w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c91a/mountain.jpg 295w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/1c72d/mountain.jpg 590w,
+/devfolio/static/04fd963e3e5a465c84a4c4d5014f320f/c08c5/mountain.jpg 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;

@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: "/devfolio",
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
+    siteUrl: `https://rhtyme.github.io/`,
     // Your Name
     name: 'Sirojiddin Komolov',
     // Main Site Title
