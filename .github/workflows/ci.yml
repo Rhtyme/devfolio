@@ -1,0 +1,17 @@
+name: BUILD CI
+
+on:
+  pull-request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@4
+      - uses: actions/setup-node@4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run build -- --prefix-paths
