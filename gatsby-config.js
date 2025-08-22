@@ -16,7 +16,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
-    about: `Men devops enjineri bo'lib ishlayman.`,
+    about: `Men devops enjineri bo'lib ishlayman. Kelajakda senior devops mutaxassisi bo'laman.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
